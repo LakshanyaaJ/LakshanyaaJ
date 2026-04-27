@@ -64,4 +64,4 @@
 
 ## 💭 Developer Mindset
 
-> “I focus on building fewer projects, but making them meaningful, scalable, and worth discussing in an interview.”
+> “I focus on building fewer projects, but making them meaningful, scalable, and worth discussing about them!”
